@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[48026,["/pna/_next/static/chunks/a624b468970d3cc4.js","/pna/_next/static/chunks/6bbb3e2673e65241.js","/pna/_next/static/chunks/5a2c9e2a605468b2.js","/pna/_next/static/chunks/517fd15cf24c73c9.js"],"AppShell"]
+3:I[99207,["/pna/_next/static/chunks/a624b468970d3cc4.js","/pna/_next/static/chunks/6bbb3e2673e65241.js","/pna/_next/static/chunks/5a2c9e2a605468b2.js","/pna/_next/static/chunks/517fd15cf24c73c9.js"],"LeaveHistory"]
+4:I[97367,["/pna/_next/static/chunks/ff1a16fafef87110.js","/pna/_next/static/chunks/650b0d2d0b895b93.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"u4wtKBucrS8dmmudl6RlX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","div",null,{"className":"space-y-6","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-foreground","children":"Leave History"}],["$","p",null,{"className":"text-muted-foreground mt-1","children":"View and manage your leave requests"}]]}],["$","$L3",null,{}]]}]}],[["$","script","script-0",{"src":"/pna/_next/static/chunks/6bbb3e2673e65241.js","async":true}],["$","script","script-1",{"src":"/pna/_next/static/chunks/5a2c9e2a605468b2.js","async":true}],["$","script","script-2",{"src":"/pna/_next/static/chunks/517fd15cf24c73c9.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
