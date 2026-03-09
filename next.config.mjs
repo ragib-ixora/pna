@@ -2,6 +2,8 @@
 const nextConfig = {
   output: 'export',
   basePath: '/pna',
+  assetPrefix: '/pna/',
+  trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
   },
